@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riii/static/css/main.cd20d5ab.css",
+    "main.js": "/riii/static/js/main.a4bc3883.js",
+    "static/js/453.37753ddd.chunk.js": "/riii/static/js/453.37753ddd.chunk.js",
+    "index.html": "/riii/index.html",
+    "main.cd20d5ab.css.map": "/riii/static/css/main.cd20d5ab.css.map",
+    "main.a4bc3883.js.map": "/riii/static/js/main.a4bc3883.js.map",
+    "453.37753ddd.chunk.js.map": "/riii/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd20d5ab.css",
+    "static/js/main.a4bc3883.js"
+  ]
+}
