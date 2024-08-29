@@ -6,7 +6,7 @@ const Todo = () => {
   const [tasks, setTasks] = useState([]);
 
   useEffect(() => {
-    document.title = `bab! you have ${tasks.length} pending task(s)`;
+    document.title = `you have ${tasks.length} pending task(s)`;
   });
 
   const addTask = (title) => {
@@ -23,7 +23,7 @@ const Todo = () => {
   return (
     <>
       <div className="todo-container">
-        <div className="header">DrToBe</div>
+        <div className="header">We Can Start</div>
 
         <div className="add-task">
           <Addtask addTask={addTask} />

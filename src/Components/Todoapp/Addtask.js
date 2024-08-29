@@ -13,13 +13,13 @@ const Addtask = ({addTask}) => {
           className="input"
           type="text"
           value={value}
-          placeholder="Add your task Dr Riya"
+          placeholder="Add your task"
           onChange={(e) => {
             setValue(e.target.value);
           }}
         />
         <button onClick={addItem} className="add-btn">
-          Dr+
+          ADD
         </button>
       </div>
     </>
